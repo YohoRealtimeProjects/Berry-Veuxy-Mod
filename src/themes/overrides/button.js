@@ -2,7 +2,7 @@
 // import themeConfig from 'src/configs/themeConfig';
 
 // ** Util Import
-import { hexToRGBA } from '@core/utils/hex-to-rgba';
+import { hexToRGBA } from 'utils/hex-to-rgba';
 
 const Button = () => {
   return {
@@ -265,7 +265,7 @@ const Button = () => {
           })
         })
       }
-    },
+    }
     // MuiButtonBase: {
     //   defaultProps: {
     //     disableRipple: themeConfig.disableRipple

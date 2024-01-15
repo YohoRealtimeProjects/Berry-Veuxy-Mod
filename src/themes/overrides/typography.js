@@ -60,6 +60,6 @@ const typography = {
       }
     ]
   }
-}
+};
 
-export default typography
+export default typography;

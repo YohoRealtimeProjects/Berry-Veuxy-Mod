@@ -308,7 +308,7 @@ export default function componentStyleOverrides(theme) {
     buttonGroup,
     autocomplete,
     MuiIconButton,
-    MuiTypography,
+    MuiTypography
     // MuiToggleButton
   );
 }

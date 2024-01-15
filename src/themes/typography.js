@@ -60,7 +60,7 @@ export default function themeTypography(theme) {
     body2: {
       letterSpacing: '0em',
       fontWeight: 400,
-      lineHeight: '1.5em',
+      lineHeight: '1.5em'
       // color: theme.darkTextPrimary
     },
     button: {
